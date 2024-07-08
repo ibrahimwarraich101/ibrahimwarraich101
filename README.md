@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ibrahim Warraich
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Object Oriented Programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Via Email](ibrahimwarraich09@gmail.com)
   
 
